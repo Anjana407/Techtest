@@ -11,3 +11,5 @@
 
  Defined a TotalPrice function which takes the start date and Number of days to calculate the price
  The program is using a dictionary of dictionary lists to hold the month-wise rate on different days of the month.
+
+ # program.cs is the entry point
